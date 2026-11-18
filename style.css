@@ -4155,3 +4155,10 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
     .page:has(> .brand-picker) .toolbar input { flex-basis:100%; }
     .page:has(> .brand-picker) .toolbar select { flex-basis:100%; }
 }
+
+/* Give the breadcrumb room below the header on vehicle detail pages. */
+.page:has(> .detail-top) { padding-top:38px; }
+@media (max-width:750px) {
+    .page:has(> .detail-top) { padding-top:24px; }
+    .page:has(> .detail-top) > .breadcrumbs { line-height:1.6; }
+}
