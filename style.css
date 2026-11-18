@@ -4162,3 +4162,14 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
     .page:has(> .detail-top) { padding-top:24px; }
     .page:has(> .detail-top) > .breadcrumbs { line-height:1.6; }
 }
+
+/* Keep the budget controls aligned and the note readable on phones. */
+.budget-box form > small { display:block; margin-top:12px; line-height:1.65; word-break:keep-all; overflow-wrap:normal; }
+@media (max-width:600px) {
+    .budget-box { gap:24px; }
+    .budget-box label { display:block; line-height:1.5; }
+    .budget-range { display:grid; grid-template-columns:minmax(0,1fr) auto minmax(0,1fr); align-items:center; gap:10px; margin-top:10px; }
+    .budget-range select { width:100%; min-height:48px; }
+    .budget-range button { grid-column:1 / -1; width:100%; min-height:48px; }
+    .budget-box form > small { margin-top:12px; font-size:12px; }
+}
