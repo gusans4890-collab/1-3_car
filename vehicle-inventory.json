@@ -1,0 +1,4751 @@
+[
+  {
+    "brand": "현대",
+    "name": "아이오닉 5",
+    "source": "https://car.naver.com/home?ncrId=car_171299"
+  },
+  {
+    "brand": "제네시스",
+    "name": "G80",
+    "source": "https://car.naver.com/home?ncrId=car_169805",
+    "variants": {
+      "내연기관": "https://car.naver.com/home?ncrId=car_169805",
+      "전기": "https://car.naver.com/home?ncrId=car_170593"
+    }
+  },
+  {
+    "brand": "BMW",
+    "name": "5시리즈",
+    "source": "https://car.naver.com/home?ncrId=car_168331",
+    "variants": {
+      "내연기관": "https://car.naver.com/home?ncrId=car_168331",
+      "전기": null
+    }
+  },
+  {
+    "brand": "벤츠",
+    "name": "E-클래스",
+    "source": "https://car.naver.com/home?ncrId=car_167515"
+  },
+  {
+    "brand": "기아",
+    "name": "쏘렌토",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_172121",
+    "variants": {
+      "기본 모델": "https://car.naver.com/home?ncrId=car_172115",
+      "하이브리드": "https://car.naver.com/home?a=grade-trim&ncrId=car_172121"
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "그랜저",
+    "source": "https://car.naver.com/home?ncrId=car_171091"
+  },
+  {
+    "brand": "현대",
+    "name": "넥쏘",
+    "source": "https://auto.danawa.com/auto/?Model=4677&Work=model"
+  },
+  {
+    "brand": "기아",
+    "name": "모닝",
+    "source": "https://car.naver.com/home?ncrId=car_171175"
+  },
+  {
+    "brand": "기아",
+    "name": "레이",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_167675",
+    "variants": {
+      "가솔린": "https://car.naver.com/home?a=grade-trim&ncrId=car_167675",
+      "전기": "https://car.naver.com/home?a=grade-trim&ncrId=car_167673"
+    }
+  },
+  {
+    "brand": "기아",
+    "name": "K5",
+    "source": "https://car.naver.com/home?ncrId=car_171465"
+  },
+  {
+    "brand": "기아",
+    "name": "K8",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_171025",
+    "variants": {
+      "기본 모델": "https://car.naver.com/home?ncrId=car_171021",
+      "하이브리드": "https://car.naver.com/home?a=grade-trim&ncrId=car_171025"
+    }
+  },
+  {
+    "brand": "기아",
+    "name": "K9",
+    "source": "https://car.naver.com/home?ncrId=car_170353"
+  },
+  {
+    "brand": "기아",
+    "name": "EV3",
+    "source": "https://car.naver.com/home?ncrId=car_170301"
+  },
+  {
+    "brand": "기아",
+    "name": "EV4",
+    "source": "https://car.naver.com/home?ncrId=car_170303"
+  },
+  {
+    "brand": "기아",
+    "name": "EV5",
+    "source": "https://car.naver.com/home?ncrId=car_167707"
+  },
+  {
+    "brand": "기아",
+    "name": "EV6",
+    "source": "https://car.naver.com/home?ncrId=car_171749"
+  },
+  {
+    "brand": "기아",
+    "name": "EV9",
+    "source": "https://car.naver.com/home?ncrId=car_170307"
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV90 Neolun",
+    "source": null
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV90",
+    "source": null
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV80 Coupe",
+    "source": "https://car.naver.com/home?ncrId=car_172459"
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV80",
+    "source": "https://car.naver.com/home?ncrId=car_172453"
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV70",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_171487",
+    "variants": {
+      "내연기관": "https://car.naver.com/home?a=grade-trim&ncrId=car_171487",
+      "전기": "https://car.naver.com/home?ncrId=car_170759"
+    }
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV60",
+    "source": "https://car.naver.com/home?ncrId=car_170757"
+  },
+  {
+    "brand": "제네시스",
+    "name": "G90",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_170849"
+  },
+  {
+    "brand": "제네시스",
+    "name": "G70",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_169853"
+  },
+  {
+    "brand": "제네시스",
+    "name": "G70 Shooting Brake",
+    "source": "https://car.naver.com/home?ncrId=car_169851"
+  },
+  {
+    "brand": "BMW",
+    "name": "1시리즈",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_168347"
+  },
+  {
+    "brand": "BMW",
+    "name": "2시리즈 그란 쿠페",
+    "source": "https://auto.danawa.com/auto/?Model=4683&Work=model"
+  },
+  {
+    "brand": "BMW",
+    "name": "2시리즈 액티브 투어러",
+    "source": "https://auto.danawa.com/auto/?Model=4114&Work=model"
+  },
+  {
+    "brand": "BMW",
+    "name": "3시리즈",
+    "source": "https://car.naver.com/home?ncrId=car_168341"
+  },
+  {
+    "brand": "BMW",
+    "name": "7시리즈",
+    "source": "https://car.naver.com/home?ncrId=car_168351"
+  },
+  {
+    "brand": "BMW",
+    "name": "X1",
+    "source": "https://car.naver.com/home?ncrId=car_168317"
+  },
+  {
+    "brand": "BMW",
+    "name": "X3",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_168843"
+  },
+  {
+    "brand": "BMW",
+    "name": "X5",
+    "source": "https://car.naver.com/home?ncrId=car_168831"
+  },
+  {
+    "brand": "BMW",
+    "name": "X6",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_168827"
+  },
+  {
+    "brand": "BMW",
+    "name": "X7",
+    "source": "https://car.naver.com/home?ncrId=car_168839"
+  },
+  {
+    "brand": "벤츠",
+    "name": "CLA Sedan",
+    "source": "https://car.naver.com/home?ncrId=car_170877"
+  },
+  {
+    "brand": "벤츠",
+    "name": "C-Class",
+    "source": "https://car.naver.com/home?ncrId=car_170249"
+  },
+  {
+    "brand": "벤츠",
+    "name": "S-Class",
+    "source": "https://car.naver.com/home?ncrId=car_170271"
+  },
+  {
+    "brand": "벤츠",
+    "name": "EQE",
+    "source": "https://auto.danawa.com/auto/?Model=4111&Work=model"
+  },
+  {
+    "brand": "벤츠",
+    "name": "EQE SUV",
+    "source": "https://car.naver.com/home?ncrId=car_170197"
+  },
+  {
+    "brand": "벤츠",
+    "name": "EQS SUV",
+    "source": "https://auto.danawa.com/auto/?Model=4381&Work=model"
+  },
+  {
+    "brand": "벤츠",
+    "name": "GLA",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_166655"
+  },
+  {
+    "brand": "벤츠",
+    "name": "GLB",
+    "source": "https://car.naver.com/home?ncrId=car_167279"
+  },
+  {
+    "brand": "벤츠",
+    "name": "A-Class Hatch",
+    "source": "https://car.naver.com/home?ncrId=car_132823"
+  },
+  {
+    "brand": "벤츠",
+    "name": "CLE Coupé",
+    "source": "https://car.naver.com/home?ncrId=car_167507"
+  },
+  {
+    "brand": "현대",
+    "name": "팰리세이드",
+    "source": "https://car.naver.com/home?ncrId=car_171809"
+  },
+  {
+    "brand": "현대",
+    "name": "베뉴",
+    "source": "https://car.naver.com/home?ncrId=car_168523"
+  },
+  {
+    "brand": "현대",
+    "name": "코나",
+    "source": "https://auto.danawa.com/auto/?Model=4510&Tab=spec&Work=model",
+    "variants": {
+      "내연기관": "https://car.naver.com/home?ncrId=car_170929",
+      "전기": "https://auto.danawa.com/auto/?Model=4510&Tab=spec&Work=model",
+      "하이브리드": "https://car.naver.com/home?ncrId=car_170937"
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "캐스퍼",
+    "source": "https://car.naver.com/home?ncrId=car_166867",
+    "variants": {
+      "내연기관": "https://car.naver.com/home?ncrId=car_166867",
+      "전기": "https://car.naver.com/home?ncrId=car_171587"
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "아이오닉 6 N",
+    "source": "https://car.naver.com/home?ncrId=car_166785"
+  },
+  {
+    "brand": "현대",
+    "name": "아이오닉 5 N",
+    "source": "https://car.naver.com/home?ncrId=car_168047"
+  },
+  {
+    "brand": "벤츠",
+    "name": "GLC",
+    "source": "https://car.naver.com/home?ncrId=car_167531"
+  },
+  {
+    "brand": "벤츠",
+    "name": "GLC Coupé",
+    "source": "https://car.naver.com/home?ncrId=car_167529"
+  },
+  {
+    "brand": "벤츠",
+    "name": "GLE",
+    "source": "https://car.naver.com/home?ncrId=car_168885"
+  },
+  {
+    "brand": "벤츠",
+    "name": "GLS",
+    "source": "https://car.naver.com/home?ncrId=car_168773"
+  },
+  {
+    "brand": "벤츠",
+    "name": "G-Class",
+    "source": "https://car.naver.com/home?ncrId=car_169557"
+  },
+  {
+    "brand": "현대",
+    "name": "디 올 뉴 아반떼",
+    "source": "https://car.naver.com/home?ncrId=car_171409"
+  },
+  {
+    "brand": "현대",
+    "name": "쏘나타 디 엣지",
+    "source": "https://car.naver.com/home?ncrId=car_172475"
+  },
+  {
+    "brand": "현대",
+    "name": "디 올 뉴 투싼",
+    "source": "https://car.naver.com/home?ncrId=car_172619",
+    "variants": {
+      "가솔린": "https://car.naver.com/home?ncrId=car_171917",
+      "하이브리드": "https://car.naver.com/home?ncrId=car_172619"
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "싼타페",
+    "source": "https://car.naver.com/home?ncrId=car_167089"
+  },
+  {
+    "brand": "현대",
+    "name": "아반떼 N",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_165575"
+  },
+  {
+    "brand": "기아",
+    "name": "셀토스",
+    "source": "https://car.naver.com/home?ncrId=car_172597"
+  },
+  {
+    "brand": "기아",
+    "name": "니로",
+    "source": "https://auto.danawa.com/auto/?Model=4775&Work=model"
+  },
+  {
+    "brand": "기아",
+    "name": "스포티지",
+    "source": "https://car.naver.com/home?ncrId=car_172099",
+    "variants": {
+      "가솔린 · LPG": "https://car.naver.com/home?ncrId=car_172099",
+      "하이브리드": "https://car.naver.com/home?ncrId=car_172107"
+    }
+  },
+  {
+    "brand": "기아",
+    "name": "타스만",
+    "source": "https://car.naver.com/home?ncrId=car_164949"
+  },
+  {
+    "brand": "기아",
+    "name": "카니발",
+    "source": "https://car.naver.com/home?ncrId=car_172085"
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 패신저",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_171721"
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "토레스",
+    "source": "https://car.naver.com/home?ncrId=car_170337",
+    "variants": {
+      "내연기관": null,
+      "전기": "https://car.naver.com/home?ncrId=car_170337"
+    }
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "액티언",
+    "source": "https://car.naver.com/home?a=owner-review&ncrId=car_166729"
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "티볼리",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_170343"
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "렉스턴 뉴 아레나",
+    "source": "https://car.naver.com/home?ncrId=car_168137"
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "무쏘",
+    "source": "https://car.naver.com/home?a=owner-review&ncrId=car_169649",
+    "variants": {
+      "내연기관": "https://car.naver.com/home?a=owner-review&ncrId=car_169649",
+      "전기": null
+    }
+  },
+  {
+    "brand": "르노코리아",
+    "name": "그랑 콜레오스",
+    "source": "https://car.naver.com/home?ncrId=car_167861",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?ncrId=car_167861"
+    }
+  },
+  {
+    "brand": "르노코리아",
+    "name": "필랑트",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_169945",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?a=grade-trim&ncrId=car_169945"
+    }
+  },
+  {
+    "brand": "볼보",
+    "name": "EX90",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_170829"
+  },
+  {
+    "brand": "볼보",
+    "name": "EX30",
+    "source": "https://car.naver.com/home?ncrId=car_171341"
+  },
+  {
+    "brand": "볼보",
+    "name": "XC90",
+    "source": "https://car.naver.com/home?ncrId=car_163027"
+  },
+  {
+    "brand": "볼보",
+    "name": "XC60",
+    "source": "https://car.naver.com/home?ncrId=car_165009"
+  },
+  {
+    "brand": "볼보",
+    "name": "XC40",
+    "source": "https://car.naver.com/home?ncrId=car_172203"
+  },
+  {
+    "brand": "렉서스",
+    "name": "ES",
+    "source": "https://car.naver.com/home?ncrId=car_172215",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?ncrId=car_172215",
+      "전기": null
+    }
+  },
+  {
+    "brand": "렉서스",
+    "name": "LX",
+    "source": "https://car.naver.com/home?ncrId=car_169731",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?ncrId=car_169731"
+    }
+  },
+  {
+    "brand": "렉서스",
+    "name": "LM",
+    "source": "https://car.naver.com/home?ncrId=car_168463",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?ncrId=car_168463"
+    }
+  },
+  {
+    "brand": "렉서스",
+    "name": "LS",
+    "source": "https://car.naver.com/home?ncrId=car_169763"
+  },
+  {
+    "brand": "렉서스",
+    "name": "RX",
+    "source": "https://car.naver.com/home?ncrId=car_170359",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?ncrId=car_170359"
+    }
+  },
+  {
+    "brand": "렉서스",
+    "name": "NX",
+    "source": "https://car.naver.com/home?a=owner-review&ncrId=car_169855",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?a=owner-review&ncrId=car_169855"
+    }
+  },
+  {
+    "brand": "렉서스",
+    "name": "UX",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_170367",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?a=grade-trim&ncrId=car_170367"
+    }
+  },
+  {
+    "brand": "토요타",
+    "name": "캠리",
+    "source": "https://car.naver.com/home?a=owner-review&ncrId=car_169483",
+    "variants": {
+      "하이브리드": "https://car.naver.com/home?a=owner-review&ncrId=car_169483"
+    }
+  },
+  {
+    "brand": "토요타",
+    "name": "RAV4",
+    "source": "https://car.naver.com/home?a=grade-trim&ncrId=car_166287",
+    "variants": {
+      "기본 모델": null,
+      "하이브리드": "https://car.naver.com/home?a=grade-trim&ncrId=car_166287"
+    }
+  },
+  {
+    "brand": "테슬라",
+    "name": "Model 3",
+    "source": "https://car.naver.com/home?ncrId=car_169735"
+  },
+  {
+    "brand": "테슬라",
+    "name": "Model Y",
+    "source": "https://car.naver.com/home?ncrId=car_169737"
+  },
+  {
+    "brand": "테슬라",
+    "name": "Cybertruck",
+    "source": "https://car.naver.com/home?ncrId=car_167353"
+  },
+  {
+    "brand": "BMW",
+    "name": "i4",
+    "source": "https://car.naver.com/home?ncrId=car_170289"
+  },
+  {
+    "brand": "BMW",
+    "name": "iX",
+    "source": "https://car.naver.com/home?ncrId=car_164871"
+  },
+  {
+    "brand": "BMW",
+    "name": "iX3",
+    "source": "https://car.naver.com/home?ncrId=car_167761"
+  },
+  {
+    "brand": "기아",
+    "name": "봉고 3",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "기아",
+    "name": "EV2",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV7",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "다니고-C",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "다니고-L",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "다니고-R",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "다니고-T",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "다니고-U",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "다니고-W",
+    "source": null
+  },
+  {
+    "brand": "대창모터스",
+    "name": "e-TOVI",
+    "source": null
+  },
+  {
+    "brand": "람보르기니",
+    "name": "Revuelto",
+    "source": null
+  },
+  {
+    "brand": "람보르기니",
+    "name": "Temerario",
+    "source": null
+  },
+  {
+    "brand": "람보르기니",
+    "name": "Urus",
+    "source": null
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Defender",
+    "source": null
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Discovery",
+    "source": null
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Discovery Sport",
+    "source": null
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Range Rover",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Range Rover Evoque",
+    "source": null
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Range Rover Sport",
+    "source": null
+  },
+  {
+    "brand": "랜드로버",
+    "name": "Range Rover Velar",
+    "source": null
+  },
+  {
+    "brand": "램",
+    "name": "1500",
+    "source": null
+  },
+  {
+    "brand": "로터스",
+    "name": "Eletre",
+    "source": null
+  },
+  {
+    "brand": "로터스",
+    "name": "Emeya",
+    "source": null
+  },
+  {
+    "brand": "로터스",
+    "name": "Emira",
+    "source": null
+  },
+  {
+    "brand": "롤스로이스",
+    "name": "Cullinan Series2",
+    "source": null
+  },
+  {
+    "brand": "롤스로이스",
+    "name": "Ghost Series II",
+    "source": null
+  },
+  {
+    "brand": "롤스로이스",
+    "name": "Phantom Series II",
+    "source": null
+  },
+  {
+    "brand": "롤스로이스",
+    "name": "Spectre",
+    "source": null
+  },
+  {
+    "brand": "롤스로이스",
+    "name": "Spectre Series II",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "라팔",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "메간 E-테크 일렉트릭",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "아르카나",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "에스파스",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "오스트랄",
+    "source": null
+  },
+  {
+    "brand": "리막",
+    "name": "Nevera",
+    "source": null
+  },
+  {
+    "brand": "링컨",
+    "name": "Aviator",
+    "source": null
+  },
+  {
+    "brand": "링컨",
+    "name": "Nautilus",
+    "source": null
+  },
+  {
+    "brand": "링컨",
+    "name": "Navigator",
+    "source": null
+  },
+  {
+    "brand": "링컨",
+    "name": "New Corsair",
+    "source": null
+  },
+  {
+    "brand": "마세라티",
+    "name": "GranCabrio",
+    "source": null,
+    "variants": {
+      "내연기관": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "마세라티",
+    "name": "GranTurismo",
+    "source": null,
+    "variants": {
+      "내연기관": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "마세라티",
+    "name": "Grecale",
+    "source": null
+  },
+  {
+    "brand": "마세라티",
+    "name": "GT2 Stradale",
+    "source": null
+  },
+  {
+    "brand": "마세라티",
+    "name": "MCPura",
+    "source": null
+  },
+  {
+    "brand": "마세라티",
+    "name": "MCPura Cielo",
+    "source": null
+  },
+  {
+    "brand": "마이브",
+    "name": "M1",
+    "source": null
+  },
+  {
+    "brand": "맥라렌",
+    "name": "750S",
+    "source": null
+  },
+  {
+    "brand": "맥라렌",
+    "name": "Artura",
+    "source": null
+  },
+  {
+    "brand": "맥라렌",
+    "name": "GTS",
+    "source": null
+  },
+  {
+    "brand": "맥라렌",
+    "name": "McL 6GT",
+    "source": null
+  },
+  {
+    "brand": "모빌리티 네트웍스",
+    "name": "se-A",
+    "source": null
+  },
+  {
+    "brand": "미니",
+    "name": "Aceman",
+    "source": null
+  },
+  {
+    "brand": "미니",
+    "name": "Convertible",
+    "source": null
+  },
+  {
+    "brand": "미니",
+    "name": "Cooper",
+    "source": null
+  },
+  {
+    "brand": "미니",
+    "name": "Countryman",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "미니",
+    "name": "Mini Electric",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "AMG GT",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Electric C-Class",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Electric CLA",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Electric G-Class",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Electric GLA",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Electric GLB",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Electric GLC",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "EQA",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "EQB",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "EQS",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Maybach EQS SUV",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Maybach GLS",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Maybach S-Class",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "Maybach SL",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "SL-Class",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "The New AMG GT 4-Door",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "V-Class",
+    "source": null
+  },
+  {
+    "brand": "벤츠",
+    "name": "VLE",
+    "source": null
+  },
+  {
+    "brand": "벤틀리",
+    "name": "Bentayga",
+    "source": null
+  },
+  {
+    "brand": "벤틀리",
+    "name": "Flying Spur",
+    "source": null
+  },
+  {
+    "brand": "벤틀리",
+    "name": "The new Continental",
+    "source": null
+  },
+  {
+    "brand": "벤틀리",
+    "name": "Torcal",
+    "source": null
+  },
+  {
+    "brand": "볼보",
+    "name": "EM90",
+    "source": null
+  },
+  {
+    "brand": "볼보",
+    "name": "ES90",
+    "source": null
+  },
+  {
+    "brand": "볼보",
+    "name": "EX30 CC",
+    "source": null
+  },
+  {
+    "brand": "볼보",
+    "name": "S90",
+    "source": null
+  },
+  {
+    "brand": "볼보",
+    "name": "V60 Cross Country",
+    "source": null
+  },
+  {
+    "brand": "뷰익",
+    "name": "Electra E7",
+    "source": null
+  },
+  {
+    "brand": "쉐보레",
+    "name": "뉴 타호",
+    "source": null
+  },
+  {
+    "brand": "쉐보레",
+    "name": "더 뉴 이쿼녹스",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "쉐보레",
+    "name": "올 뉴 트래버스",
+    "source": null
+  },
+  {
+    "brand": "쉐보레",
+    "name": "트랙스 크로스오버",
+    "source": null
+  },
+  {
+    "brand": "쉐보레",
+    "name": "트레일블레이저",
+    "source": null
+  },
+  {
+    "brand": "쏠테로",
+    "name": "트라베리",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "A3",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "A6 e-tron",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "A8",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "Q4 e-tron",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "Q6 e-tron",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "Q7",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "Q8",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "Q9",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "The new A5",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "The new A6",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "The new e-tron GT",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "The new Q3",
+    "source": null
+  },
+  {
+    "brand": "아우디",
+    "name": "The new Q5",
+    "source": null
+  },
+  {
+    "brand": "애스턴마틴",
+    "name": "DB12",
+    "source": null
+  },
+  {
+    "brand": "애스턴마틴",
+    "name": "DBX",
+    "source": null
+  },
+  {
+    "brand": "애스턴마틴",
+    "name": "New Vantage",
+    "source": null
+  },
+  {
+    "brand": "애스턴마틴",
+    "name": "Valhalla",
+    "source": null
+  },
+  {
+    "brand": "애스턴마틴",
+    "name": "Vanquish",
+    "source": null
+  },
+  {
+    "brand": "애스턴마틴",
+    "name": "Vantage",
+    "source": null
+  },
+  {
+    "brand": "에스에스라이트",
+    "name": "젤라 EV",
+    "source": null
+  },
+  {
+    "brand": "이네오스",
+    "name": "Grenadier",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "New Daily",
+    "source": null
+  },
+  {
+    "brand": "이비온",
+    "name": "E6",
+    "source": null
+  },
+  {
+    "brand": "이비온",
+    "name": "SW40",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "ELF",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "Forward",
+    "source": null
+  },
+  {
+    "brand": "자일자동차",
+    "name": "레스타",
+    "source": null
+  },
+  {
+    "brand": "제네시스",
+    "name": "Electrified G80",
+    "source": null
+  },
+  {
+    "brand": "제네시스",
+    "name": "Electrified GV70",
+    "source": null
+  },
+  {
+    "brand": "제네시스",
+    "name": "GV60 MAGMA",
+    "source": null
+  },
+  {
+    "brand": "제네시스",
+    "name": "X  콘셉트",
+    "source": null
+  },
+  {
+    "brand": "제이스 모빌리티",
+    "name": "이티밴",
+    "source": null
+  },
+  {
+    "brand": "지커",
+    "name": "7GT",
+    "source": null
+  },
+  {
+    "brand": "지커",
+    "name": "7X",
+    "source": null
+  },
+  {
+    "brand": "지프",
+    "name": "Gladiator",
+    "source": null
+  },
+  {
+    "brand": "지프",
+    "name": "New Grand Cherokee",
+    "source": null
+  },
+  {
+    "brand": "지프",
+    "name": "Wagoneer S",
+    "source": null
+  },
+  {
+    "brand": "지프",
+    "name": "Wrangler",
+    "source": null
+  },
+  {
+    "brand": "캐딜락",
+    "name": "Celestiq",
+    "source": null
+  },
+  {
+    "brand": "캐딜락",
+    "name": "Escalade",
+    "source": null
+  },
+  {
+    "brand": "캐딜락",
+    "name": "Escalade IQ",
+    "source": null
+  },
+  {
+    "brand": "캐딜락",
+    "name": "Optiq",
+    "source": null
+  },
+  {
+    "brand": "캐딜락",
+    "name": "Vistiq",
+    "source": null
+  },
+  {
+    "brand": "크라이슬러",
+    "name": "Airflow Concept",
+    "source": null
+  },
+  {
+    "brand": "테슬라",
+    "name": "Roadster",
+    "source": null
+  },
+  {
+    "brand": "토요타",
+    "name": "Alphard",
+    "source": null
+  },
+  {
+    "brand": "토요타",
+    "name": "Crown",
+    "source": null
+  },
+  {
+    "brand": "토요타",
+    "name": "GR 86",
+    "source": null
+  },
+  {
+    "brand": "토요타",
+    "name": "Highlander",
+    "source": null
+  },
+  {
+    "brand": "토요타",
+    "name": "Prius",
+    "source": null
+  },
+  {
+    "brand": "토요타",
+    "name": "Sienna",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "12Cilindri",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "12Cilindri Spider",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "296 GTB",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "296 GTS",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "812 GTS",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "849 Testarossa",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "849 Testarossa Spider",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "Amalfi",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "Amalfi Spyder",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "Luce",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "Purosangue",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "Roma Spider",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "SF90 Spider",
+    "source": null
+  },
+  {
+    "brand": "페라리",
+    "name": "SF90 Stradale",
+    "source": null
+  },
+  {
+    "brand": "포드",
+    "name": "All New Ranger",
+    "source": null
+  },
+  {
+    "brand": "포드",
+    "name": "Bronco",
+    "source": null
+  },
+  {
+    "brand": "포드",
+    "name": "Expedition",
+    "source": null
+  },
+  {
+    "brand": "포드",
+    "name": "Explorer",
+    "source": null
+  },
+  {
+    "brand": "포드",
+    "name": "Mustang",
+    "source": null
+  },
+  {
+    "brand": "포르쉐",
+    "name": "Cayenne",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "포르쉐",
+    "name": "Macan Electric",
+    "source": null
+  },
+  {
+    "brand": "포르쉐",
+    "name": "Panamera",
+    "source": null
+  },
+  {
+    "brand": "포르쉐",
+    "name": "Taycan",
+    "source": null
+  },
+  {
+    "brand": "포르쉐",
+    "name": "The New 911",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "Atlas",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "Golf",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "ID.4",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "ID.5",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "ID.6",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "ID.7",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "ID.Buzz",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "New ID.3",
+    "source": null
+  },
+  {
+    "brand": "폭스바겐",
+    "name": "Touareg",
+    "source": null
+  },
+  {
+    "brand": "폴스타",
+    "name": "Polestar 2",
+    "source": null
+  },
+  {
+    "brand": "폴스타",
+    "name": "Polestar 3",
+    "source": null
+  },
+  {
+    "brand": "폴스타",
+    "name": "Polestar 4",
+    "source": null
+  },
+  {
+    "brand": "폴스타",
+    "name": "Polestar 5",
+    "source": null
+  },
+  {
+    "brand": "폴스타",
+    "name": "Polestar 6",
+    "source": null
+  },
+  {
+    "brand": "푸조",
+    "name": "3008",
+    "source": null
+  },
+  {
+    "brand": "푸조",
+    "name": "308",
+    "source": null
+  },
+  {
+    "brand": "푸조",
+    "name": "408",
+    "source": null
+  },
+  {
+    "brand": "푸조",
+    "name": "5008",
+    "source": null
+  },
+  {
+    "brand": "푸조",
+    "name": "New 408",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 아이오닉 6",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "쏠라티",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "아이오닉 9",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "포터2",
+    "source": null,
+    "variants": {
+      "기본 모델": null,
+      "전기": null
+    }
+  },
+  {
+    "brand": "현대",
+    "name": "ST1",
+    "source": null
+  },
+  {
+    "brand": "혼다",
+    "name": "Accord",
+    "source": null
+  },
+  {
+    "brand": "혼다",
+    "name": "CR-V",
+    "source": null
+  },
+  {
+    "brand": "혼다",
+    "name": "New Pilot",
+    "source": null
+  },
+  {
+    "brand": "혼다",
+    "name": "Odyssey",
+    "source": null
+  },
+  {
+    "brand": "혼다",
+    "name": "Pilot",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "2 Series",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "2 Series Active Tourer",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "2 Series Gran Coupe",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "4 Series",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "8 Series",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "i3",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "i7",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "iX1",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "iX2",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "iX5",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "M2",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "M3",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "M4",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "M5",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "M8",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "X2",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "X4",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "X5 M",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "X6 M",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "XM",
+    "source": null
+  },
+  {
+    "brand": "BMW",
+    "name": "Z4",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "ATTO 3",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "Dolphin",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "New ATTO 3",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "SEAL",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "SEALION 6 DM-i",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "SEALION 7",
+    "source": null
+  },
+  {
+    "brand": "BYD",
+    "name": "T4K",
+    "source": null
+  },
+  {
+    "brand": "EVKMC",
+    "name": "마사다 밴",
+    "source": null
+  },
+  {
+    "brand": "EVKMC",
+    "name": "마사다 픽업",
+    "source": null
+  },
+  {
+    "brand": "GMC",
+    "name": "Acadia",
+    "source": null
+  },
+  {
+    "brand": "GMC",
+    "name": "Canyon",
+    "source": null
+  },
+  {
+    "brand": "GMC",
+    "name": "Hummer EV",
+    "source": null
+  },
+  {
+    "brand": "GMC",
+    "name": "Sierra",
+    "source": null
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "뉴 토레스",
+    "source": null
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "토레스 EVX",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 카고 컴팩트 스탠다드",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 8×4 카고 520마력 GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 10×4 카고 540마력 GX캡",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "아록스 4153K 8×4 카고 클래식 스페이스 싱글리덕션",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 섀시캡 초장축+ 슬리퍼",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 섀시캡 장축 슬리퍼",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 섀시캡 단축 슬리퍼",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 섀시캡 단축 데이",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 카고 초장축+ 슬리퍼",
+    "source": null
+  },
+  {
+    "brand": "다임러트럭",
+    "name": "뉴악트로스 2653LS 스트림 스페이스 (미들캡) 트랙터",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6㎥ 믹서",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 15톤 덤프",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ LPG 카고 159마력",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 4X2 섀시캡 14톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 4X2 섀시캡 14톤 장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 4X2 섀시캡 14톤 단축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 4X2 섀시캡 14톤 초단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 카고 하이브리드 2인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 카고 일렉트릭 5인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 카고 일렉트릭 3인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 카고 LPG 5인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 카고 LPG 3인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 카고 하이브리드 5인승",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 6x4 480마력 카고 BB TN캡",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 8톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 8톤 장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 8톤 단축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 8톤 초단축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 6.5톤 장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 6.5톤 단축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 4X2 섀시캡 6.5톤 초단축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 4X2 섀시캡 14톤 극초장축+",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 8톤 슈퍼캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 8톤 일반캡 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 8톤 일반캡 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 7.5톤 일반캡 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고크레인 초장축플러스7.0",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고크레인 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고크레인 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 고소작업차 초장축플러스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 고소작업차 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 고소작업차 장축플러스",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 카고 장축 슬리퍼",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 카고 단축 슬리퍼",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 10.3톤 슈퍼캡 극초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 10.3톤 슈퍼캡 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 10.3톤 슈퍼캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 10.3톤 슈퍼캡 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 10.3톤 일반캡 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 10.3톤 일반캡 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 섀시캡 8톤 슈퍼캡 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 고소작업차 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 환경미화차 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 환경미화차 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 섀시캡 30톤 탱크로리",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 섀시캡 30톤 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 카고 14.5톤 장축 고상 섀시",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 카고 14톤 초장축 고상 섀시",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 카고 13톤 극초장축 저상 섀시",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 카고 9.5톤 극초장축 저상 섀시",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6m루베 믹서트럭",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 17톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 17톤 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 17톤 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 13톤 극초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 13톤 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 4X2 섀시캡 9.5톤 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 4X2 섀시캡 8.5톤 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 윙바디 극초장축플러스 8.3",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 윙바디 극초장축플러스 7.6",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 17.5톤 섀시캡 극초장축플러스9.3",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 15.5톤 섀시캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고 극초장축플러스8.3",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고 극초장축플러스7.6",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고 극초장축7.4",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고 초장축플러스7.0",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 덤프트럭 7.5톤 일반캡 단축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 윙바디 10.3톤 슈퍼캡 극초장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 윙바디 10.3톤 슈퍼캡 초장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 윙바디 8톤 슈퍼캡 초장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 17.5톤 섀시캡 극초장축플러스8.9",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 17.5톤 섀시캡 극초장축플러스8.3",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 17.5톤 섀시캡 장축플러스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 17.5톤 섀시캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 극초장축플러스8.9",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 극초장축플러스8.3",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 극초장축플러스7.6",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 극초장축7.4",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 초장축플러스7.0",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 윙바디 10.3톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 하이 내장탑차 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 하이 내장탑차 7.5톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 프리미엄 냉동탑차 10.3톤 슈퍼캡 초장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 프리미엄 냉동탑차 8톤 슈퍼캡 초장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 하이 냉동탑차 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 하이 냉동탑차 7.5톤 슈퍼캡 장축 저상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 냉동탑차 8톤 일반캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 2.5톤 슈퍼캡 장축 저상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 2.5톤 일반캡 장축 저상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 4톤 슈퍼캡 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 3.5톤 슈퍼캡 초장축 광폭",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 3.5톤 슈퍼캡 장축 광폭",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 섀시캡 초단축 데이",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 냉동탑차 7.5톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 3.1톤 슈퍼캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 2.5톤 더블캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 2.5톤 슈퍼캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 2.5톤 일반캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더뉴마이티 5.1톤 슈퍼캡 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 4톤 슈퍼캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 3.5톤 슈퍼캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 3.5톤 일반캡 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 17.5톤 섀시캡 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 15.5톤 섀시캡 단축",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "하이쎈 카고 단축 데이",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "ST1 특장 하이탑",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "ST1 섀시캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "ST1 카고 냉동",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "ST1 카고",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 윙바디 초장축플러스 7.0",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ덤프 장축 4WD 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ이동주유차 장축 4WD슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ활어운반차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 프리미엄냉동탑차",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ트랜스파워게이트 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ파워게이트 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 버큠로리",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ시티벤 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ다용도탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ냉장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4x2 암롤",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ 초저온냉동탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ 하이냉동탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 덤프",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ냉동탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ저상냉동탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ일렉트릭 전동식 윙바디탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ일렉트릭 수동식 윙바디탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ일렉트릭 저상내장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 음식물쓰레기수거차",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ전동식 윙바디탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ수동식 윙바디탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ내장탑 파워게이트 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 압축진개차",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ하이내장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ내장탑차 초장축 더블캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ내장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ저상내장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ하이냉장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ일렉트릭 일반내장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ일렉트릭 하이내장탑차 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ일렉트릭 파워게이트 초장축 슈퍼캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 8~8.5톤 카고 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 파비스 4X2 5.5톤 카고 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 수소전기트럭 6X4 섀시캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 수소전기트럭 4X2 섀시캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 수소전기트럭 6X4 윙바디",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 25.5톤 덤프",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 15톤 덤프",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X2 트랙터 하이루프캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X2 트랙터 표준캡",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 10X4 카고 25톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 8X4 카고 19톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 섀시캡 30톤 중축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 6X4 카고 9.5톤 초장축 저상 섀시",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 덤프트럭 8톤 일반캡 단축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 냉장 윙바디 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 윙바디 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 윙바디 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 프리미엄 냉동탑차 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 15톤 덤프트럭",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 광폭 냉동탑차 8톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 17톤 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 14톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 하이 냉동탑차 7.5톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 6X4 섀시캡 13톤 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 4X2 섀시캡 9.5톤 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 4X2 섀시캡 8.5톤 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 4X2 카고 8톤 초장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴파워트럭 4X2 섀시캡 8톤 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 하이 내장탑차 7.5톤 슈퍼캡 장축 저상",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 마이티 내장탑차 7.5톤 슈퍼캡 장축 고상",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 오픈베드 롱레인지",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 오픈베드 스탠다드",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 카고 롱레인지",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 카고 스탠다드",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 3.5톤 재활용품 수집운반차",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 3.5톤 단축 덤프",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 3.5톤 단축 카고",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 스틸카고 극초장축 플러스",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "S-WAY 460마력 트랙터 하이루프",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "더 뉴 악트로스 L 프로캐빈 2853LS 빅스페이스",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "더 뉴 악트로스 L 프로캐빈 2863LS 스트림스페이스",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "더 뉴 악트로스 L 프로캐빈 2863LS 기가스페이스",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 일렉트릭 8x4 670마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 엑시언트 트랙터 6X2 540마력",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 8×4 25.5톤 덤프 540마력",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 540마력 BL GX캡",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트록스 L 2851LS 6x2 트랙터 스트림스페이스 / 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "아록스 2851L 6x4 트랙터 클래식스페이스 장축",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트로스 2651LS 6X2 트랙터 기가스페이스 / 경제형",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트로스 2643LS 6X2 트랙터 스트림스페이스 / 경제형",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 EV",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트로스 4163S SLT 8X4 트랙터",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 에어로 8×4 25.5톤 덤프 540마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×2 트랙터 540마력 표준캡",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×2 트랙터 540마력 XL글로브트로터",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 에어로 6×2 표준캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGM 4×2 카고 290마력 TM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 8×4 25.5톤 덤프 480마력 싱글리덕션 NN캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 8×4 25.5톤 덤프 540마력 허브·싱글 리덕션/NN캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 480마력 BL GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 540마력 BL/LL GM 캡 GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 540마력 BL/LL GX캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 580마력 LL GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 580마력 LL GX캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×4 트랙터 640마력 BB GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×4 트랙터 640마력 BL GX캡",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 10×4 카고 500마력(WB6200)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 10×4 카고 540마력(WB6200)",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ 일렉트릭 카고",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 8×4 카고 500마력(WB4300)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 8×4 카고 500마력(WB4900)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 8×4 카고 500마력(WB6200)",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 H2",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트로스 L 2863LS 기가스페이스 럭셔리",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 스틸카고 극초장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 덤프",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FM 8×4 25.5톤 덤프 500마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FMX 8×4 25.5톤 덤프 540마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 8×4 25.5톤 덤프 540마력(트라이뎀)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×2 트랙터 표준캡 540마력(듀얼클러치)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH16 6×4 트랙터 글로브트로터 750마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH16 6×4 트랙터 표준캡 750마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×4 트랙터 글로브트로터 540마력(전축 리프, 후축 리프)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×4 트랙터 글로브트로터 540마력(전축 리프, 후축 에어)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×2 트랙터 표준캡 500마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×2 트랙터 글로브트로터 500마력",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 트랙터 640마력 LL GX캡 - 인디비주얼 라이온 S",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGL 4×2 카고 190마력 TN캡 섀시",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGM 4×2 카고 320마력 TM캡 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGM 6×2 카고 320마력 TM캡 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 6×2 카고 440마력 TM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 6×4 카고 480마력 BL GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 8×4 카고 520마력 GM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGS 10×4 카고 520마력 TM캡",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "뉴 MAN TGX 10×4 카고 540마력 GM캡",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FM 8×4 25.5톤 덤프 460마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FM11 6×4 카고 460마력(WB5200)",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "아록스 4453K 8×4 25.5톤 덤프 클래식스페이스 허브리덕션",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트로스L 2646LS 6×2 트랙터 스트림스페이스/이피션시",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "악트로스 3363S 6×4 트랙터 스트림스페이스/파워(익스트림)",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "아록스 2135L 4×2 카고 클래식스페이스 극초장축",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "아록스 4153L 8×4 카고 스트림스페이스 초장축",
+    "source": null
+  },
+  {
+    "brand": "스타트럭코리아",
+    "name": "아록스 2843K 6×4 덤프 클래식스페이스 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "460R 트랙터",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "660S V8 트랙터 하이캡",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560S 트랙터",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FE 6×4 카고 350마력(WB6200)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FE 4×2 카고 350마력 (WB5000)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FE 4×2 카고 350마력(WB6800)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FE 4×2 카고 350마력(WB6100)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 10×4 카고 540마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 10×4 카고 섀시 540마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×4 카고 500마력(WB6200)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FH 6×4 카고 500마력(WB5600)",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FM 10×4 카고 섀시 500마력",
+    "source": null
+  },
+  {
+    "brand": "볼보트럭",
+    "name": "FM11 6×4 카고 460마력(WB5600)",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 크루캡 섀시 3750",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 크루캡 섀시 3450",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 싱글캡 섀시 3750",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 싱글캡 섀시 3450",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "구쎈 극초장축+ 8.4 카고 320마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "구쎈 극초장축+ 카고 320마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 장축카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 단축카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 초단축카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 장축카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6X4 트랙터 480마력",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 스틸카고 단축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 스틸카고 장축",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "포워드 스틸카고 초장축",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 4WD 초장축 더블캡",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 4WD 초장축 킹캡",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 4WD 초장축 표준캡",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 킹캡 1.2톤 138마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 표준캡 1.2톤 138마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 킹캡 1.2톤 159마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 표준카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 3톤(2.5톤) 표준카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 장축 10×4 카고 570마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 장축 10×4 카고 480마력",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "460P 25.5톤 덤프 싱글리프",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560R 25.5톤 덤프 싱글 리프",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560R 25.5톤 덤프 싱글 에어",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560R 27톤 덤프 싱글 에어",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "500R 트랙터",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "500R 트랙터 하이캡",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560S 트랙터 하이캡",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "460R 6x4 멀티",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "460P 8x4*4 암롤",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "500G 8×4*4 탱커",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "500R 8×4*4 윙바디",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "460G 10x4*6 멀티/카고",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "500R 10×4*6 멀티/카고",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560S 10×4*6 멀티/카고",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "560S10×4*6 하이멀티",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6X4 트랙터 570마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6x4 극초장축 저상 카고 360마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6x4 극초장축 저상 카고 320마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 극초장축+9.1m 카고 320마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 장축 8x4 카고 570마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 장축 8x4 카고 480마력",
+    "source": null
+  },
+  {
+    "brand": "제이스모빌리티",
+    "name": "뉴 이티 4밴",
+    "source": null
+  },
+  {
+    "brand": "제이스모빌리티",
+    "name": "뉴 이티밴",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 EV 표준 냉동탑",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 EV 저상 냉동탑",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 전축 10톤 480마력 초장축 카고",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 표준캡 1.2톤 159마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 더블캡 138마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 킹캡 138마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 표준캡 138마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 더블캡 159마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 킹캡 159마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 LPG 초장축 표준캡 159마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "포터Ⅱ LPG 카고 138마력",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 2.5톤 저상 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 전축 10톤 480마력 장축 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 16톤 480마력 장축 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6x4 장축 카고 480마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 14톤 440마력 장축 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 표준 440마력 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "구쎈 극초장축+ 카고 280마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "구쎈 4.5톤/7.5톤 초장축+ 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 15톤 덤프 440마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 15톤 덤프 400마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 4X2 트랙터 480마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 극초장축카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 초장축카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 장축카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 단축카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 4톤(3.5톤) 표준카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 3톤(2.5톤) 표준카고 슬리퍼캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 2.5톤 저상 표준 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "구쎈 4.5톤/7.5톤 극초장축 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 15톤 덤프 440마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 25.5톤 덤프 570마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 400마력 15톤 덤프",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6㎥ 믹서 440마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6㎥ 믹서 400마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6X2 트랙터480마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "맥쎈 6X2 트랙터 570마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 장축카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 단축카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 초단축카고 데이캡",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 크루캡 섀시 5100",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 크루캡 섀시 4750",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 크루캡 섀시 4350",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 크루캡 섀시 4100",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴 유로카고 4×2 극초장축 280마력 로우루프",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 H3",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "X-WAY 570마력 10X4 섀시",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "S-WAY 580마력 트랙터 하이루프",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "S-WAY 510마력 트랙터 로우루프",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "S-WAY 500마력 트랙터 하이루프",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "스타리아 LPG 3.5",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "스타리아 2.2 디젤",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 EV 윙바디",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고3 EV 내장탑",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "더쎈 5톤 초장축+카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 7㎥ 믹서",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 6㎥ 믹서 400마력",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 15톤 덤프 400마력",
+    "source": null
+  },
+  {
+    "brand": "스카니아",
+    "name": "P360 6x2*4 카고",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 초장축 카고",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 장축 카고",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "르노 마스터 밴 라지",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "르노 마스터 밴 스탠다드",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "X-WAY 510마력 6X4 섀시",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "X-WAY 570마력 8X4 섀시",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "MAN 라이온스 2층 버스",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "e-FIBIRD (228kWh)",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 319 BlueTEC",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BS106 로얄시티 CNG",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "e-FIBIRD 204kWh 저상",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FX120 에이스",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "레스타 단축 디럭스",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 실크로드 440마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "에어로타운 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "일렉시티 이층버스 (2층전기버스)",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 수소전기버스 12M",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 수소전기버스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 노블EX 430마력",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 110E",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 모바일 오피스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "일렉시티 수소전기버스",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "르노 마스터 버스 15인승",
+    "source": null
+  },
+  {
+    "brand": "이스즈",
+    "name": "엘프 단축 카고",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 4.5톤 극초장축 플러스8.6 카고(NEF)",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 4.5톤 극초장축 플러스 카고(NEF)",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 4.5톤 극초장축 카고(DL06P)",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 4.5톤 초장축 카고(NEF)",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 4.5톤 장축 카고(DL06P)",
+    "source": null
+  },
+  {
+    "brand": "타타대우모빌리티",
+    "name": "노부스 4.5톤 단축 카고(DL06P)",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 어린이통학차 하이브리드 15인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 어린이통학차 LPG 15인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 어린이통학차 하이브리드 11인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 어린이통학차 LPG 11인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 리무진 일렉트릭 6인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 라운지 일렉트릭 11인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 라운지 일렉트릭 7인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 리무진 하이브리드 9인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 리무진 하이브리드 6인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 라운지 하이브리드 9인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 라운지 하이브리드 7인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 라운지 LPG 7인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 하이브리드 11인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 일렉트릭 11인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 하이브리드 9인승",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "더 뉴 스타리아 LPG 11인승",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 프라임",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 WAV",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 패신저(2-2-3)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 패신저(1-2-2)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "PV5 패신저(2-3-0)",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "E-STANA 좌석형",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "E-STANA 시내형",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "일렉시티 좌석형",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 좌석형 CNG",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 H3",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 H2",
+    "source": null
+  },
+  {
+    "brand": "이베코",
+    "name": "뉴데일리 H1",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 110G",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 110",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈 리무진 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴카운티 마을버스 단축",
+    "source": null
+  },
+  {
+    "brand": "르노코리아",
+    "name": "르노 마스터 버스 13인승",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 110 저상",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 110H 고상",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 110HG CNG",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "NEW FIBIRD CNG",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 11H 고상",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 319 CDI 판넬 밴",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 519 CDI 캡 섀시",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "일렉시티 굴절버스",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 슈퍼 프리미엄 스탠다드데크 그린필드",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 슈퍼 프리미엄 스탠다드데크 파크웨이",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 슈퍼 프리미엄 하이데크 썬샤인",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴카운티 어린이버스 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴카운티 마을버스 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈 마을버스 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈 마을버스 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 일렉트릭 마을버스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 일렉트릭 어린이버스",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 슈퍼 프리미엄 스탠다드데크 블루스카이",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 슈퍼 프리미엄 하이데크 실크로드",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "MAN 라이온스 투어링 버스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "일렉시티 2층 전기버스",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "e-FIBIRD 272kWh 저상",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "FIBIRD CNG",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "SMART 11HG CNG",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX212M 로얄",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX212M 로얄플러스",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 리무진",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 노블EX 440마력",
+    "source": null
+  },
+  {
+    "brand": "하이거(피라인)",
+    "name": "하이퍼스",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FX120 에이스 스페셜",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 럭셔리 440마력",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 엔트리",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그랜드 스타렉스 2.5 디젤 어반",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그랜드 스타렉스 2.5 디젤 왜건",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "일렉시티",
+    "source": null
+  },
+  {
+    "brand": "만트럭버스",
+    "name": "MAN 라이온스 시티 CNG 저상버스",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 유로스타",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 프라임 440마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 프라임 430마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 노블 440마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 노블 430마력",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 519 CDI",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 319 CDI",
+    "source": null
+  },
+  {
+    "brand": "BYD(이지웰페어)",
+    "name": "eBus-7",
+    "source": null
+  },
+  {
+    "brand": "BYD(이지웰페어)",
+    "name": "eBus-12",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BS110CN-EV",
+    "source": null
+  },
+  {
+    "brand": "메르세데스-벤츠",
+    "name": "스프린터 316 BlueTEC",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "쏠라티 휠체어리프트 차량",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "쏠라티 어린이버스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "쏠라티 앰뷸런스",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "쏠라티 캠핑카",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈 어린이버스 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈 어린이버스 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니시티 325마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니시티 310마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니시티 CNG",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 럭셔리 430마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 럭셔리 390마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "에어로타운 단축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 시내용 CNG",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 도시형",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 시외 / 자가용",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 시내용",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BS090 로얄미디 자가용",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "레스타 단축 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "레스타 장축 디럭스",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "레스타 장축 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "레스타 장축 슈프림",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BS090 로얄미디 시내용",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BS090 로얄미디 CNG",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BS090 로얄미디 어린이용",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BH090 로얄스타 디젤",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그린시티 시외용",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그린시티 도시형(마을) CNG",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그린시티 도시형(마을)",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FX116 하모니 CNG",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FX212 슈퍼스타",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FX116 하모니 디젤",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX 212H 로얄하이데커",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX 212S 로얄하이데커",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BS110 저상버스 CNG",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BC211 로얄하이시티 디젤",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BC211 로얄하이시티 CNG",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 그린필드 440마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 그린필드 430마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 그린필드 390마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 파크웨이 440마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 파크웨이 430마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 파크웨이 390마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 블루스카이 440마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 블루스카이 430마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 블루스카이 390마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 썬샤인 440마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 썬샤인 430마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 썬샤인 390마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 실크로드 430마력",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 실크로드 390마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "카운티 뉴 브리즈 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그린시티 시내용",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그린시티 시내용 CNG",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "이층 전기버스",
+    "source": null
+  },
+  {
+    "brand": "KGM 커머셜",
+    "name": "e-FIBIRD (163kWh)",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그린시티 자가용",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴카운티 어린이버스 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 노블 우등 430마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 노블 우등 440마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "뉴그랜버드 프리미엄",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그랜드 스타렉스 왜건",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "그랜드 스타렉스 왜건 LPi",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴카운티 단축",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "NEW BS106 로얄시티 디젤",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX 212S 로얄하이데커 디젤 440마력",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX 212H 로얄하이데커 디젤 440마력",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX 212H 로얄하이데커 디젤 430마력",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FXⅡ 116 크루징에로우 디젤",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FXⅡ 116 크루징에로우 CNG",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FXⅡ 120 크루징스타 디젤",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "FXⅡ 212 슈퍼크루저 디젤",
+    "source": null
+  },
+  {
+    "brand": "자일대우버스",
+    "name": "BX 212S 로얄하이데커 디젤 430마력",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "뉴카운티 장축",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 도시형 CNG",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "슈퍼에어로시티 자가용 CNG",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "블루시티 CNG 하이브리드",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "유니버스 컴포트",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "소형전술차 (KLTV)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "중형표준차 (KMTV)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "1¼톤 계열",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "2½톤 계열",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "대형 플랫폼 시리즈",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "타스만 시리즈 (특수차)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "그랜버드 (수출용)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "그랜로드 (수출용)",
+    "source": null
+  },
+  {
+    "brand": "기아",
+    "name": "봉고 (수출용)",
+    "source": null
+  },
+  {
+    "brand": "현대",
+    "name": "클릭",
+    "source": "https://car.naver.com/home?ncrId=car_13321"
+  },
+  {
+    "brand": "르노코리아",
+    "name": "SM3",
+    "source": "https://car.naver.com/home?ncrId=car_13277"
+  },
+  {
+    "brand": "르노코리아",
+    "name": "SM5",
+    "source": "https://car.naver.com/home?ncrId=car_10437"
+  },
+  {
+    "brand": "르노코리아",
+    "name": "SM7",
+    "source": "https://car.naver.com/home?ncrId=car_12166"
+  },
+  {
+    "brand": "르노코리아",
+    "name": "SM6",
+    "source": "https://car.naver.com/home?ncrId=car_156051"
+  },
+  {
+    "brand": "쉐보레",
+    "name": "크루즈",
+    "source": "https://car.naver.com/home?ncrId=car_67843"
+  },
+  {
+    "brand": "쉐보레",
+    "name": "말리부",
+    "source": "https://car.naver.com/home?ncrId=car_141643"
+  },
+  {
+    "brand": "쉐보레",
+    "name": "토스카",
+    "source": "https://car.naver.com/home?ncrId=car_10141"
+  },
+  {
+    "brand": "KG 모빌리티",
+    "name": "체어맨 W",
+    "source": "https://car.naver.com/home?ncrId=car_11088"
+  },
+  {
+    "brand": "현대",
+    "name": "포니2",
+    "source": "https://car.naver.com/home?ncrId=car_16621"
+  },
+  {
+    "brand": "현대",
+    "name": "포니 엑셀",
+    "source": "https://car.naver.com/home?ncrId=car_16616"
+  },
+  {
+    "brand": "현대",
+    "name": "다이너스티",
+    "source": "https://car.naver.com/home?ncrId=car_13593"
+  },
+  {
+    "brand": "현대",
+    "name": "티뷰론",
+    "source": "https://car.naver.com/home?ncrId=car_16694"
+  },
+  {
+    "brand": "현대",
+    "name": "트라제 XG",
+    "source": "https://car.naver.com/home?ncrId=car_13303"
+  },
+  {
+    "brand": "기아",
+    "name": "세피아",
+    "source": "https://car.naver.com/home?ncrId=car_119267"
+  },
+  {
+    "brand": "기아",
+    "name": "프라이드",
+    "source": "https://car.naver.com/home?ncrId=car_51309"
+  },
+  {
+    "brand": "쉐보레",
+    "name": "다마스",
+    "source": "https://car.naver.com/home?ncrId=car_13269"
+  },
+  {
+    "brand": "쉐보레",
+    "name": "올란도",
+    "source": "https://car.naver.com/home?ncrId=car_15051"
+  },
+  {
+    "brand": "기아",
+    "name": "K7",
+    "source": "https://car.naver.com/home?ncrId=car_131207"
+  },
+  {
+    "brand": "기아",
+    "name": "오피러스",
+    "source": "https://car.naver.com/home?ncrId=car_10616"
+  },
+  {
+    "brand": "기아",
+    "name": "스팅어",
+    "source": "https://car.naver.com/home?ncrId=car_154759"
+  }
+]
