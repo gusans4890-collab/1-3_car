@@ -4097,8 +4097,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .detail-brand-name { font-size:clamp(25px,2.7vw,36px); line-height:1.15; letter-spacing:-.05em; }
 @media(max-width:600px) { .detail-brand-name { font-size:clamp(23px,6vw,30px); } }
 /* Fit vehicle images without cropping in every model card. */
-.model-image-link .card-image { display:grid; place-items:center; width:100%; height:235px; min-height:0; overflow:hidden; background:#fff; }
-.model-image-link .card-image img { width:100%; height:100%; max-width:100%; max-height:100%; object-fit:contain; object-position:center; }
+.model-image-link .card-image { display:flex; align-items:center; justify-content:center; width:100%; height:235px; min-height:0; padding:12px; overflow:hidden; background:#fff; }
+.model-image-link .card-image img { display:block; flex:0 1 auto; width:auto; height:auto; min-width:0; min-height:0; max-width:100%; max-height:100%; object-fit:contain; object-position:center; }
 .model:hover .model-image-link .card-image { transform:none; }
 .classic-image-button .official-car-image { background-size:contain; background-repeat:no-repeat; background-position:center; background-color:#fff; }
 @media(max-width:750px) { .model-image-link .card-image { height:190px; min-height:0; } }
