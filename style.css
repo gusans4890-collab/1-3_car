@@ -4143,7 +4143,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
     .page:has(> .brand-picker) .list-controls { margin:24px 0 8px; gap:10px; }
     .page:has(> .brand-picker) .list-controls .meta { margin:0; font-size:14px; }
     .page:has(> .brand-picker) .sort-buttons { justify-content:flex-start; gap:4px 8px; }
-    .page:has(> .brand-picker) .sort-buttons button { padding:9px 8px; font-size:13px; }
+    .page:has(> .brand-picker) .sort-buttons button { padding:9px 8px; font-size:15px; }
     .page:has(> .brand-picker) .sort-note { margin:0 0 18px; font-size:12px; line-height:1.6; word-break:keep-all; }
     .page:has(> .brand-picker) .model-grid { gap:14px; }
     .page:has(> .brand-picker) .model-body { padding:20px; }
@@ -4174,6 +4174,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
     .budget-box form > small { margin-top:12px; font-size:12px; }
 }
 
+.page:has(> .brand-picker) .sort-buttons button { font-size:15px; }
 @media (max-width:750px) {
     .page:has(> .brand-picker) .filter-row {
         display:grid;
