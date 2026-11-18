@@ -4118,3 +4118,40 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 @media(max-width:600px) { .gallery-thumbs { grid-template-columns:repeat(auto-fill,minmax(54px,1fr)); max-height:180px; } .gallery-thumbs button { height:43px; } .gallery-lightbox { width:100vw; height:100dvh; border-radius:0; } .lightbox-main { padding:0 8px 16px; gap:5px; } .lightbox-main button { width:36px; height:36px; } .lightbox-main img { max-width:calc(100% - 82px); } }
 .gallery-lightbox.is-rotatable .lightbox-main img { cursor:grab; touch-action:pan-y; user-select:none; -webkit-user-drag:none; }
 .gallery-lightbox.is-rotatable .lightbox-main img:active { cursor:grabbing; }
+
+/* Keep the explore page's type and controls in balance on smaller screens. */
+@media (max-width:750px) {
+    .page:has(> .brand-picker) { padding:28px 20px 64px; }
+    .page:has(> .brand-picker) > .breadcrumbs { margin-bottom:20px; font-size:12px; line-height:1.5; }
+    .page:has(> .brand-picker) > .page-title { margin:6px 0 10px; font-size:clamp(30px, 8vw, 38px); line-height:1.2; word-break:keep-all; }
+    .page:has(> .brand-picker) > .sub { margin:0; font-size:15px; line-height:1.65; word-break:keep-all; }
+    .page:has(> .brand-picker) > .notice { margin-top:22px; padding:14px 16px; font-size:13px; line-height:1.65; word-break:keep-all; }
+    .page:has(> .brand-picker) .brand-picker { margin:24px 0; padding:20px 16px; }
+    .page:has(> .brand-picker) .brand-picker-header { align-items:center; gap:12px; }
+    .page:has(> .brand-picker) .brand-picker-header h2 { margin:5px 0 0; font-size:21px; line-height:1.3; }
+    .page:has(> .brand-picker) .brand-switch button { padding:9px 15px; font-size:13px; }
+    .page:has(> .brand-picker) .brand-icons { grid-template-columns:repeat(4, minmax(0, 1fr)); gap:4px; margin-top:18px; }
+    .page:has(> .brand-picker) .brand-icon { min-width:0; min-height:80px; gap:8px; padding:10px 2px; font-size:12px; line-height:1.3; word-break:keep-all; }
+    .page:has(> .brand-picker) .brand-icon img { max-width:80%; height:30px; }
+    .page:has(> .brand-picker) .brand-order-note { font-size:12px; line-height:1.6; word-break:keep-all; }
+    .page:has(> .brand-picker) .toolbar { gap:10px; margin:24px 0 14px; }
+    .page:has(> .brand-picker) .toolbar input, .page:has(> .brand-picker) .toolbar select { min-height:48px; font-size:16px; }
+    .page:has(> .brand-picker) .filter-row { gap:8px; padding:16px 0; }
+    .page:has(> .brand-picker) .filter-row b { flex:0 0 100%; width:auto; margin-bottom:2px; font-size:14px; }
+    .page:has(> .brand-picker) .filter-row button { min-height:38px; padding:8px 13px; font-size:13px; }
+    .page:has(> .brand-picker) .filter-row span { margin:2px 0 0; font-size:12px; line-height:1.5; }
+    .page:has(> .brand-picker) .list-controls { margin:24px 0 8px; gap:10px; }
+    .page:has(> .brand-picker) .list-controls .meta { margin:0; font-size:14px; }
+    .page:has(> .brand-picker) .sort-buttons { justify-content:flex-start; gap:4px 8px; }
+    .page:has(> .brand-picker) .sort-buttons button { padding:9px 8px; font-size:13px; }
+    .page:has(> .brand-picker) .sort-note { margin:0 0 18px; font-size:12px; line-height:1.6; word-break:keep-all; }
+    .page:has(> .brand-picker) .model-grid { gap:14px; }
+    .page:has(> .brand-picker) .model-body { padding:20px; }
+    .page:has(> .brand-picker) .model h3 { margin:8px 0; font-size:21px; line-height:1.3; }
+    .page:has(> .brand-picker) .model p { font-size:13px; line-height:1.6; word-break:keep-all; }
+    .page:has(> .brand-picker) .model-actions .outline { min-height:42px; font-size:13px; }
+}
+@media (max-width:420px) {
+    .page:has(> .brand-picker) .toolbar input { flex-basis:100%; }
+    .page:has(> .brand-picker) .toolbar select { flex-basis:100%; }
+}
