@@ -4173,3 +4173,20 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
     .budget-range button { grid-column:1 / -1; width:100%; min-height:48px; }
     .budget-box form > small { margin-top:12px; font-size:12px; }
 }
+
+@media (max-width:750px) {
+    .page:has(> .brand-picker) .filter-row {
+        display:grid;
+        grid-template-columns:46px repeat(3, minmax(0, 1fr));
+        align-items:start;
+        gap:8px;
+    }
+    .page:has(> .brand-picker) .filter-row b {
+        grid-column:1;
+        grid-row:1 / span 3;
+        margin:0;
+        padding-top:10px;
+    }
+    .page:has(> .brand-picker) .filter-row button { width:100%; padding-inline:4px; }
+    .page:has(> .brand-picker) .filter-row span { grid-column:2 / -1; }
+}
